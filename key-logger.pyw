@@ -8,7 +8,7 @@ def write_to_file(text):
 
 def quit_code(key):
     try:
-        if (key.char == "\x11"):
+        if key.char == "\x11":
             print("it's q")
             exit(1)
     except AttributeError:
