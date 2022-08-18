@@ -6,3 +6,4 @@
 - compiling the code makes windows unable to delete it
 - use this command to compile the code `py -m nuitka --mingw64 <filename>.py --standalone --onefile`
 - but to make it run in the background use `py -m nuitka --onefile --windows-disable-console <filename>.py`
+- You should disable your windows virus realtime protection until you compile your code

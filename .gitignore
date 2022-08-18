@@ -1,7 +1,6 @@
 loggs.txt
-key-logger.build
-key-logger.dist
-key-logger.onefile-build
-.README.md~
-README.md~
-key-logger.exe
+*~
+*.exe
+*.build
+*.dist
+*.onefile-build
